@@ -1,10 +1,10 @@
 {
-  "name": "whatsapp-bot (PRINCE-BOT)",
+  "name": "whatsapp-bot (ALEXA-BOT)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/PRINCE-GDS/THE-PRINCE-BOT",
+  "repository": "https://github.com/ashenbro134/THE-ALEXA-BOT",
   "stack": "container",
   "env": {
        "DATABASE_URL": {
